@@ -2,3 +2,4 @@ theme: minima
 title: Thoughts on high-frequency trading
 description: --
 author: github.com/We-Have-Ignition
+excerpt_separator: "<!--more-->"
