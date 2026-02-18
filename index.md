@@ -20,10 +20,10 @@ Here I’ll share thoughts and code related to:
       </a>
     </h3>
 
-    {%- comment -%} Optional excerpt under the title {%- endcomment -%}
-    {%- if post.excerpt -%}
-      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
-    {%- endif -%}
+    {%- comment -%} Optional subtitle under the title {%- endcomment -%}
+    {% if post.subtitle %}
+      <p class="post-subtitle">{{ post.subtitle }}</p>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
