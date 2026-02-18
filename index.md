@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Opinions on high-frequency trading: With code examples
 ---
