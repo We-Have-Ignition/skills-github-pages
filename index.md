@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Home
 ---
 Here I’ll share thoughts and code related to:
 
