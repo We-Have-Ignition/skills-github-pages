@@ -1,5 +1,5 @@
 ---
-title: Opinions on high-frequency trading: With code examples
+title: Opinions on high-frequency trading
 ---
 Here I’ll share thoughts and code related to:
 
